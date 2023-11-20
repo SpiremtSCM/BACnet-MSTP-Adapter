@@ -1,0 +1,1 @@
+将压缩包解压后，将device.ini以及device_series文件夹分别覆盖安装路径下的文件及文件夹。
